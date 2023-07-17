@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.youtubelogo {
+    width: 25%;
+    position: fixed;
+    top: 34%;
+    left: 67%;
+}
+
+.direct {
+    display: inline-block;
+    background-color: rgb(4, 0, 255);
+    color: white;
+    padding: 45px 120px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 20px;
+    transition: background-color 0.3s;
+    cursor: pointer;
+    font-size: 25px;
+    border: none;
+    position: fixed;
+    top: 42%;
+    left: 60px;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .direct:hover {
+    background-color: #0300a5;
+  }
+
+  .videobackground{
+    height: 0px;
+  }
